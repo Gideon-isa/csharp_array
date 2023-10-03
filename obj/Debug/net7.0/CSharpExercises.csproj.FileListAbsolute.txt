@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\bin\Debug\net7.0\CSharpExercises.exe
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\bin\Debug\net7.0\CSharpExercises.deps.json
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\bin\Debug\net7.0\CSharpExercises.runtimeconfig.json
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\bin\Debug\net7.0\CSharpExercises.dll
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\bin\Debug\net7.0\CSharpExercises.pdb
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.AssemblyInfo.cs
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.dll
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\refint\CSharpExercises.dll
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.pdb
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\CSharpExercises.genruntimeconfig.cache
+C:\Users\USER\Documents\csharp_src_code\Exercises\CSharpExercises\obj\Debug\net7.0\ref\CSharpExercises.dll
